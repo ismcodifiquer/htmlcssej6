@@ -1,0 +1,15 @@
+p {
+    color: aqua;
+}
+
+.miparrafo {
+    color: red;
+}
+
+div p {
+    color: coral;
+}
+
+.miparrafo p {
+   color: green;
+}
